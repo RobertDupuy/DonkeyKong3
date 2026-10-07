@@ -7,7 +7,7 @@ I will stop somewhere around 10 to 12 prompts.
 
 Why - because this doesn't make sense. Just wait 1 year, point GPT-7 or GPT-8 at a long play of the original arcade version, and it will do that port, nothing to spec besides copy it.
 
-An original games requiring creativity will require more human input than the prompt "port it".
+Original games requiring human creativity are more interesting than issuing the prompt "port it".
 
 And in that regard, "Fireballoon" is an original game idea, even if inspired by space invaders and rampage.  I should round out that game.
 
