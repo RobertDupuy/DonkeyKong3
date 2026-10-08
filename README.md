@@ -15,7 +15,7 @@ The key is not to micromanage, but to act as an architect. Do not set out any fu
 
 Instead give it detailed instructions on the entire task.  And then jump in to help and guide.
 
-For example, the ai did need help with an idea to construct metrics gathering and play suites against the original MAME version to gather metrics. Until it was given that idea, it was unaware of some play mechanics.  It didn't think of that on its own, so manage - don't micromange by giving it any function to code.
+For example, the ai did need help with an idea to construct metrics gathering and play suites against the original MAME version. Until it was given that idea, it was unaware of some play mechanics.  It didn't think of that on its own, so manage - don't micromange by giving it any function to code.
 
 If you insert yourself into the details, then you will remain the bottleneck in the process.
 
