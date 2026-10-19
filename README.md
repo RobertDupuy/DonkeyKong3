@@ -8,6 +8,8 @@ DK3800 is for 48k machine, a fun version of the game but not arcade graphics.
 DK3NTSC.car NTSC timings, no display kernel (fast)
 DK3-XL-v0.26.car PAL timing, uses display kernel (pretty)
 
+DK3-VBXE-native-SIC-512K.car is for Atari with VBXE graphics card
+
 
 
 
